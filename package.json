@@ -1,0 +1,23 @@
+{
+  "name": "curso-de-manipulacion-de-arrays-en-javascript",
+  "version": "1.0.0",
+  "description": "En este repositorio esta todo lo impartido en el curso de manipulación de arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriswolf005/Curso-de-Manipulacion-de-Arrays-en-JavaScript.git"
+  },
+  "keywords": ["javascript","arrays","node"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriswolf005/Curso-de-Manipulacion-de-Arrays-en-JavaScript/issues"
+  },
+  "homepage": "https://github.com/chriswolf005/Curso-de-Manipulacion-de-Arrays-en-JavaScript#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
