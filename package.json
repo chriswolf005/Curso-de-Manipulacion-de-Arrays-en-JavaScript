@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/chriswolf005/Curso-de-Manipulacion-de-Arrays-en-JavaScript.git"
   },
-  "keywords": ["javascript","arrays","node"],
+  "keywords": [
+    "javascript",
+    "arrays",
+    "node"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -18,6 +22,7 @@
   },
   "homepage": "https://github.com/chriswolf005/Curso-de-Manipulacion-de-Arrays-en-JavaScript#readme",
   "dependencies": {
+    "date-fns": "^2.29.3",
     "http-server": "^0.12.3"
   }
 }
